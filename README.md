@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MyraSaunders
-- 👀 I’m interested in Coding.
+- 👀 I’m interested in Programming and Coding.
 - 🌱 I’m currently learning Python and Visual Studio Code.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - Msau0625@fmuniv.edu.
